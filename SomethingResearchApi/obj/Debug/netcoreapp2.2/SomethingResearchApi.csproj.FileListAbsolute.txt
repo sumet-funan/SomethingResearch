@@ -1,0 +1,14 @@
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\bin\Debug\netcoreapp2.2\SomethingResearchApi.deps.json
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\bin\Debug\netcoreapp2.2\SomethingResearchApi.runtimeconfig.json
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\bin\Debug\netcoreapp2.2\SomethingResearchApi.runtimeconfig.dev.json
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\bin\Debug\netcoreapp2.2\SomethingResearchApi.dll
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\bin\Debug\netcoreapp2.2\SomethingResearchApi.pdb
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.csprojAssemblyReference.cache
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.csproj.CoreCompileInputs.cache
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.RazorAssemblyInfo.cache
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.RazorAssemblyInfo.cs
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.AssemblyInfoInputs.cache
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.AssemblyInfo.cs
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.RazorTargetAssemblyInfo.cache
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.dll
+C:\_ResearchStation\SomethingResearch\SomethingResearchApi\obj\Debug\netcoreapp2.2\SomethingResearchApi.pdb
